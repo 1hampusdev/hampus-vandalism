@@ -5,6 +5,7 @@ Made this basic questline script and decided to release it.
 - ox_lib
 - ox_target
 - ox_inventory
+- scully_emotemenu
 
 📹 Video preview:
 https://youtu.be/uEHO5xnhTg8
