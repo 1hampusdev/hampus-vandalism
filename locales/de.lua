@@ -1,0 +1,26 @@
+Config.Locales['de'] = {
+    boss_label = 'Karin',
+    boss_target = 'Sprich mit Karin',
+    dialog_title = 'Aufgabe von Karin',
+    dialog_question = 'Möchtest du Karin bei einer Aufgabe helfen?',
+    dialog_yes = 'JA',
+    dialog_no = 'NEIN',
+
+    dialog_no_notify = 'Okay, dann verschwinde von hier.',
+    mission_start_notify = 'Geh zum Haus und kritzel an die Wände.',
+    graffiti_progress = 'Kritzeleien...',
+    graffiti_done_step = 'Graffiti-Platz bereit (%s/3).',
+    all_graffiti_done = 'Gut gemacht. Da verlässt wohl jemand seinen Posten....',
+    owner_attacks = 'Der Hausbesitzer greift Sie an! Verteidigen Sie sich.',
+    kill_owner_instruction = 'Tötet den Hausbesitzer.',
+    car_instruction = 'Zerstöre das Auto. Beschädige es: %d%%',
+    car_done = 'Das Auto ist zerstört. Geh zurück zu Karin.',
+    mission_already_active = 'Sie arbeiten bereits an einer Mission.',
+    mission_instructions_title = "Mission",
+    mission_complete = "Mission abgeschlossen",
+    mission_step_graffiti = 'Kritzeln Sie auf alle markierten Wände.',
+    mission_step_kill_owner = 'Töte den Hausbesitzer, der dich angreift.',
+    mission_step_destroy_car = 'Zerstöre das Auto am Haus.',
+    mission_step_return_boss = 'Kehre zu Karin zurück, um deine Belohnung zu erhalten.',
+    reward_received = "Sie haben Ihre Belohnung erhalten!"
+}

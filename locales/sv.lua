@@ -1,0 +1,26 @@
+Config.Locales['sv'] = {
+    boss_label = 'Karin',
+    boss_target = 'Prata med Karin',
+    dialog_title = 'Uppdrag från Karin',
+    dialog_question = 'Vill du hjälpa Karin med ett uppdrag?',
+    dialog_yes = 'JA',
+    dialog_no = 'NEJ',
+
+    dialog_no_notify = 'Okej, stick härifrån då.',
+    mission_start_notify = 'Åk till huset och klottra på väggarna.',
+    graffiti_progress = 'Klottrar...',
+    graffiti_done_step = 'Klotterplats klar (%s/3).',
+    all_graffiti_done = 'Bra jobbat. Någon är på väg ut...',
+    owner_attacks = 'Husägaren attackerar dig! Försvara dig.',
+    kill_owner_instruction = 'Döda husägaren.',
+    car_instruction = 'Förstör bilen. Skada: %d%%',
+    car_done = 'Bilen är förstörd. Åk tillbaka till Karin.',
+    mission_already_active = 'Du håller redan på med ett uppdrag.',
+    mission_instructions_title = "Uppdrag",
+    mission_complete = "Uppdrag slutfört",
+    mission_step_graffiti = 'Klottra på alla markerade väggar.',
+    mission_step_kill_owner = 'Döda husägaren som attackerar dig.',
+    mission_step_destroy_car = 'Förstör bilen vid huset.',
+    mission_step_return_boss = 'Återvänd till Karin för din belöning.',
+    reward_received = "Du har fått din belöning!"
+}

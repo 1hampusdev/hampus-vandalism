@@ -1,0 +1,26 @@
+Config.Locales['dk'] = {
+    boss_label = 'Karin',
+    boss_target = 'Tal med Karin',
+    dialog_title = 'Opgave fra Karin',
+    dialog_question = 'Vil du hjælpe Karin med en opgave?',
+    dialog_yes = 'JA',
+    dialog_no = 'NEJ',
+
+    dialog_no_notify = 'Okay, så kom væk herfra.',
+    mission_start_notify = 'Gå til huset og tegn på væggene.',
+    graffiti_progress = 'Kridsebøger...',
+    graffiti_done_step = 'Graffiti-sted klar (%s/3).',
+    all_graffiti_done = 'Godt gået. Nogen er på vej ud...',
+    owner_attacks = 'Husejeren angriber dig! Forsvar dig selv.',
+    kill_owner_instruction = 'Dræb husejeren.',
+    car_instruction = 'Ødelæg bilen. Skade: %d%%',
+    car_done = 'Bilen er ødelagt. Gå tilbage til Karin.',
+    mission_already_active = 'Du arbejder allerede på en mission.',
+    mission_instructions_title = "Mission",
+    mission_complete = "Mission fuldført",
+    mission_step_graffiti = 'Skriv på alle markerede vægge.',
+    mission_step_kill_owner = 'Dræb husejeren, der angriber dig.',
+    mission_step_destroy_car = 'Ødelæg bilen ved huset.',
+    mission_step_return_boss = 'Gå tilbage til Karin for at få din belønning.',
+    reward_received = "Du har modtaget din belønning!"
+}
